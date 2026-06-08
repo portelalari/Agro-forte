@@ -21,7 +21,6 @@ O site busca explicar, de maneira simples e interativa, como a cadeia produtiva 
 O projeto conta com as seguintes funcionalidades:
 
 🏠 Página inicial com apresentação do tema;
-📱 Menu de navegação responsivo;
 🌾 Seção explicativa sobre a jornada produtiva da cevada ao malte;
 🖼️ Galeria/carrossel de imagens;
 💡 Curiosidades interativas;
@@ -156,33 +155,13 @@ A seção de vídeo apresenta, de forma audiovisual, a jornada da cevada desde o
 O vídeo complementa o conteúdo textual e visual do site, tornando a experiência mais dinâmica para o visitante.
 
 👨‍🎓 Autoria
-Autor(a): Nome do(a) estudante
-Professor(a) orientador(a): Nome do(a) professor(a)
-Escola: Nome da instituição de ensino
-Município: Guarapuava – Paraná
+Autor(a): Nome do(a) Larissa
+Professor(a) orientador(a): Alexandra
+Escola: CCM Edite cordeiro maeques
+Município: Turvo – Paraná
 
 🖼️ Créditos dos Recursos Utilizados
-As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste projeto foram produzidos ou organizados para fins educacionais no contexto do Concurso Agrinho 2026.
-
-Caso algum recurso tenha sido produzido com apoio de inteligência artificial, os prompts utilizados estão registrados abaixo.
-
-🤖 Prompts Genéricos de IA Utilizados
-🌾 Imagem Hero — Campo de cevada em Guarapuava
-Crie uma imagem realista e educativa de um campo de cevada em Guarapuava, no Paraná, com atmosfera acolhedora, luz natural suave, paisagem agrícola bem cuidada, céu limpo e sensação de conexão entre produção rural, sustentabilidade e futuro. A imagem deve transmitir equilíbrio entre o agro forte e o cuidado com o meio ambiente.
-🌱 Imagem Campo — Cultivo da cevada
-Crie uma imagem de uma lavoura de cevada em fase de crescimento, mostrando o cultivo no campo, o cuidado com o solo e a importância da agricultura sustentável. A cena deve ter cores naturais, aparência limpa, clima positivo e representar o início da cadeia produtiva do malte.
-🏭 Imagem Malte — Transformação e beneficiamento
-Crie uma imagem representando o processo de transformação da cevada em malte, com elementos que remetam à indústria, tecnologia, beneficiamento de grãos e inovação. A imagem deve mostrar a conexão entre o campo e a indústria, com visual moderno, educativo e relacionado à sustentabilidade.
-🏙️ Imagem Cidade — Campo e cidade conectados
-Crie uma imagem que represente a conexão entre o campo e a cidade por meio da cadeia produtiva do malte. A cena deve mostrar elementos urbanos integrados à produção agrícola, simbolizando como o agro movimenta a economia, abastece a sociedade e conecta diferentes espaços.
-🎬 Vídeo — Jornada do campo ao copo
-Crie um vídeo educativo curto mostrando a jornada da cevada desde o cultivo no campo até sua transformação em malte e chegada à cidade. O vídeo deve apresentar cenas de lavoura, colheita, beneficiamento, tecnologia, indústria e consumo consciente, destacando a importância da sustentabilidade, do cuidado ambiental e da conexão entre produção rural e vida urbana.
-📖 HQ — História em quadrinhos educativa
-Crie uma história em quadrinhos educativa sobre a jornada da cevada ao malte, mostrando personagens aprendendo como o campo, a indústria e a cidade estão conectados. A HQ deve ter linguagem simples, visual colorido, tom positivo e explicar a importância da produção sustentável e do equilíbrio entre desenvolvimento econômico e preservação ambiental.
-🌿 Sustentabilidade e meio ambiente
-Crie uma ilustração educativa sobre sustentabilidade na produção agrícola, mostrando práticas como cuidado com o solo, uso consciente da água, tecnologia no campo e preservação ambiental. A imagem deve transmitir responsabilidade, inovação e equilíbrio entre produção e natureza.
-📚 Observação sobre o Uso de IA
-As ferramentas de inteligência artificial podem ter sido utilizadas como apoio na criação de imagens, vídeos, textos ou ideias visuais do projeto.
+As imagens, ícones, textos e demais recursos visuais utilizados neste projeto foram produzidos ou organizados para fins educacionais no contexto do Concurso Agrinho 2026.
 
 Todos os recursos foram utilizados com finalidade educacional, respeitando o tema do concurso e com o objetivo de tornar o aprendizado mais visual, acessível e interativo.
 
